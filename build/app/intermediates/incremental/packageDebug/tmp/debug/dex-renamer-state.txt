@@ -1,0 +1,4 @@
+#Thu Oct 12 11:33:50 WIB 2023
+base.0=C\:\\Users\\MAC\\projecflutter\\flutter_application_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
